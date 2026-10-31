@@ -1,4 +1,4 @@
-[![MasterHead]( https://abdulkadirozbek.com.tr/wp-content/uploads/2021/12/sistem-muhendisi-1024x479.jpg)
+![MasterHead]( https://abdulkadirozbek.com.tr/wp-content/uploads/2021/12/sistem-muhendisi-1024x479.jpg)
 <h1 align="center">Hi 👋, I'm Beyza</h1>
 <h3 align="center">Mechatronics Engineering M.Sc. Student | Defense & Rocket Propulsion Systems | Rapidly Advancing in Python, OpenCV, AI & Computer Vision</h3>
 
