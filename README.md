@@ -2,13 +2,17 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
 <h3 align="center">Mechatronics Engineering M.Sc. Student | Defense & Rocket Propulsion Systems | Rapidly Advancing in Python, OpenCV, AI & Computer Vision</h3>
 
-- 🔭 I’m currently working on **Air Defense Systems**
+- ✨ About Me:     **As a Mechatronics Engineering M.Sc. student at Sakarya Applied Sciences University (GPA: 3.39/4, thesis phase), I complement my background in test bench and hardware design gained from Hybrid/Solid Rocket Motor R&D with my current role as Team Captain for an Air Defense Systems and Radar Stealth Technologies project, where I drive CAD design, mechanical/electronic assembly, motion drive mechanism development, weapon system integration, and testing operations; building on the artificial intelligence coursework in my master's program, I aim to create innovative projects by merging my Computer Vision skills in Python, OpenCV, and YOLO with my core engineering discipline.**
 
-- 🌱 I’m currently learning **Python, OpenCV, AI & Computer Vision**
+- 👩🏻‍💻 Keywords Related to Me and My Profile:       **R&D, Rocket Propulsion Systems, Air Defense Systems, CAD Design & Modeling, Motion Drive Mechanisms / Actuators, Electromechanical Assembly, Weapon System Integration, Computer Vision (CV), Artificial Intelligence (AI), Object Detection, OpenCV, YOLO, Python, VS Code, Team Captain and Project Management, Interdisciplinary Collaboration.**
 
-- 💬 Ask me about **CAD Desing, R&D**
+- 🔭 I’m currently working on:    **Air Defense Systems**
 
-- 📫 How to reach me **hbeyza.cakmak@gmail.com**
+- 🌱 I’m currently learning:    **Python, OpenCV, AI & Computer Vision**
+
+- 💬 Ask me about:    **CAD Desing, R&D**
+
+- 📫 How to reach me:    **hbeyza.cakmak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
